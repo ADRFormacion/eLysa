@@ -30,12 +30,35 @@
     <icon src="icon-76@2x.png" platform="ios" width="152" height="152" />
     <icon src="icon-83.5@2x.png" platform="ios" width="167" height="167" />
     <icon src="icon-60@3x.png" platform="ios" width="180" height="180" />
-    <icon src="ldpi.png" platform="android" qualifier="ldpi" /> // 32 x 32
-    <icon src="mdpi.png" platform="android" qualifier="mdpi" /> // 48 × 48
-    <icon src="hdpi.png" platform="android" qualifier="hdpi" /> 72 × 72
-    <icon src="xhdpi.png" platform="android" qualifier="xhdpi" /> 96 × 96
-    <icon src="xxhdpi.png" platform="android" qualifier="xxhdpi" /> 144 × 144
-    <icon src="xxxhdpi.png" platform="android" qualifier="xxxhdpi" /> 192 × 192
+    <icon src="ldpi.png" platform="android" qualifier="ldpi" />
+    <icon src="mdpi.png" platform="android" qualifier="mdpi" />
+    <icon src="hdpi.png" platform="android" qualifier="hdpi" />
+    <icon src="xhdpi.png" platform="android" qualifier="xhdpi" />
+    <icon src="xxhdpi.png" platform="android" qualifier="xxhdpi" />
+    <icon src="xxxhdpi.png" platform="android" qualifier="xxxhdpi" />
+    
+    <splash src="Default.png" platform="ios" width="320" height="480" />
+    <splash src="Default@2x.png" platform="ios" width="640" height="960" />
+    <splash src="Default-568h@2x.png" platform="ios" width="640" height="1136" />
+    <splash src="Default-667h@2x.png" platform="ios" width="750" height="1334" />
+    <splash src="Default-Portrait.png" platform="ios" width="768" height="1024" />
+    <splash src="Default-Portrait-736h@3x.png" platform="ios" width="1242" height="2208" />
+    <splash src="Default-Portrait@2x.png" platform="ios" width="1536" height="2048" />
+    <splash src="Default-Landscape.png" platform="ios" width="1024" height="768" />
+    <splash src="Default-Landscape-736h@3x.png" platform="ios" width="2208" height="1242" />
+    <splash src="Default-Landscape@2x.png" platform="ios" width="2048" height="1536" />
+    <splash src="portrait-ldpi.png" platform="android" qualifier="port-ldpi" /> <!-- 200x320 -->
+    <splash src="landscape-ldpi.png" platform="android" qualifier="land-ldpi" /> <!-- 300x200 -->
+    <splash src="portrait-mdpi.png" platform="android" qualifier="port-mdpi" /> <!-- 320x480 -->
+    <splash src="landscape-mdpi.png" platform="android" qualifier="land-mdpi" /> <!-- 480x320 -->
+    <splash src="portrait-hdpi.png" platform="android" qualifier="port-hdpi" /> <!-- 480x800 -->
+    <splash src="landscape-hdpi.png" platform="android" qualifier="land-hdpi" /> <!-- 800x480 -->
+    <splash src="portrait-xhdpi.png" platform="android" qualifier="port-xhdpi" /> <!-- 720x1280 -->
+    <splash src="landscape-xhdpi.png" platform="android" qualifier="land-xhdpi" /> <!-- 1280x720 -->
+    <splash src="portrait-xxhdpi.png" platform="android" qualifier="port-xxhdpi" /> <!-- 960x1600 -->
+    <splash src="landscape-xxhdpi.png" platform="android" qualifier="land-xxhdpi" /> <!-- 1600x960 -->
+    <splash src="portrait-xxxhdpi.png" platform="android" qualifier="port-xxxhdpi" /> <!-- 1280x1920 -->
+    <splash src="landscape-xxxhdpi.png" platform="android" qualifier="land-xxxhdpi" /> <!-- 1920x1280 -->
 
     <access origin="*" />
 </widget>
