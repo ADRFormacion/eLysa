@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.adrformacion.eLysa" version="1.0.3" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+<widget id="com.adrformacion.eLysa" version="1.0.4" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>eLysa</name>
     <description>
         LCMS
@@ -58,6 +58,6 @@
     <splash src="landscape-xxhdpi.png" platform="android" qualifier="land-xxhdpi" />
     <splash src="portrait-xxxhdpi.png" platform="android" qualifier="port-xxxhdpi" />
     <splash src="landscape-xxxhdpi.png" platform="android" qualifier="land-xxxhdpi" />
-
+    
     <access origin="*" />
 </widget>
