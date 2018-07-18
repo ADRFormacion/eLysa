@@ -46,18 +46,18 @@
     <splash src="Default-Landscape.png" platform="ios" width="1024" height="768" />
     <splash src="Default-Landscape-736h@3x.png" platform="ios" width="2208" height="1242" />
     <splash src="Default-Landscape@2x.png" platform="ios" width="2048" height="1536" />
-    <splash src="portrait-ldpi.png" platform="android" qualifier="ldpi" /> <!-- 200x320 -->
-    <splash src="landscape-ldpi.png" platform="android" qualifier="land-ldpi" /> <!-- 300x200 -->
-    <splash src="portrait-mdpi.png" platform="android" qualifier="mdpi" /> <!-- 320x480 -->
-    <splash src="landscape-mdpi.png" platform="android" qualifier="land-mdpi" /> <!-- 480x320 -->
-    <splash src="portrait-hdpi.png" platform="android" qualifier="hdpi" /> <!-- 480x800 -->
-    <splash src="landscape-hdpi.png" platform="android" qualifier="land-hdpi" /> <!-- 800x480 -->
-    <splash src="portrait-xhdpi.png" platform="android" qualifier="xhdpi" /> <!-- 720x1280 -->
-    <splash src="landscape-xhdpi.png" platform="android" qualifier="land-xhdpi" /> <!-- 1280x720 -->
-    <splash src="portrait-xxhdpi.png" platform="android" qualifier="xxhdpi" /> <!-- 960x1600 -->
-    <splash src="landscape-xxhdpi.png" platform="android" qualifier="land-xxhdpi" /> <!-- 1600x960 -->
-    <splash src="portrait-xxxhdpi.png" platform="android" qualifier="xxxhdpi" /> <!-- 1280x1920 -->
-    <splash src="landscape-xxxhdpi.png" platform="android" qualifier="land-xxxhdpi" /> <!-- 1920x1280 -->
+    <splash src="portrait-ldpi.png" platform="android" qualifier="port-ldpi" />
+    <splash src="landscape-ldpi.png" platform="android" qualifier="land-ldpi" />
+    <splash src="portrait-mdpi.png" platform="android" qualifier="port-mdpi" />
+    <splash src="landscape-mdpi.png" platform="android" qualifier="land-mdpi" />
+    <splash src="portrait-hdpi.png" platform="android" qualifier="port-hdpi" />
+    <splash src="landscape-hdpi.png" platform="android" qualifier="land-hdpi" />
+    <splash src="portrait-xhdpi.png" platform="android" qualifier="port-xhdpi" />
+    <splash src="landscape-xhdpi.png" platform="android" qualifier="land-xhdpi" />
+    <splash src="portrait-xxhdpi.png" platform="android" qualifier="port-xxhdpi" />
+    <splash src="landscape-xxhdpi.png" platform="android" qualifier="land-xxhdpi" />
+    <splash src="portrait-xxxhdpi.png" platform="android" qualifier="port-xxxhdpi" />
+    <splash src="landscape-xxxhdpi.png" platform="android" qualifier="land-xxxhdpi" />
 
     <access origin="*" />
 </widget>
